@@ -1,0 +1,26 @@
+#menu a {
+    text-decoration: none;
+    color: rgb(204, 163, 135);
+    transition: 0.3s ease-in-out;
+}
+
+#menu a:hover {
+    color:rgb(217, 189, 168);
+}
+
+#menu button {
+    color: rgb(204, 163, 135);
+    transition: 0.3s ease-in-out;
+}
+
+#menu button:hover {
+    color:rgb(217, 189, 168);
+}
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-item {
+    height: 32rem;
+}
