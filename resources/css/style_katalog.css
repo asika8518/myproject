@@ -1,0 +1,22 @@
+.card{
+    margin-left: 70px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.card-image-top{
+    width: 200px;
+    height: 100px;
+}
+.katalog{
+    text-align: center;
+    color: rgb(172, 131, 105);
+    font-size: 100px;
+    font-family: 'Caveat', cursive;
+}
+.podrobnee{
+    color: black;
+    text-decoration: none;
+}
+.podrobnee:hover{
+    color: rgb(172, 131, 105);
+}
